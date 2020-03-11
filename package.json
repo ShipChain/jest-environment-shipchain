@@ -1,0 +1,25 @@
+{
+  "name": "jest-environment-shipchain",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jest-environment-node": "^23.4.0"
+  },
+  "devDependencies": {
+    "np": "^6.2.0"
+  },
+  "scripts": {
+    "test": "echo \"no test specified\""
+  },
+  "author": "Lucas Clay <lclay@shipchain.io>",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/ShipChain/jest-environment-shipchain#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShipChain/jest-environment-shipchain.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ShipChain/jest-environment-shipchain/issues"
+  }
+}
